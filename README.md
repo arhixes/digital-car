@@ -118,7 +118,7 @@ Telegram Bot → передаёт запрос агенту
 
 - **Python 3.11+** — основной язык (интеграция с LLM SDK, RAG-библиотеками, aiogram).
 - **Docker / Docker Compose
-- 
+
 ### 6.2. Парсинг и подготовка данных (этап загрузки в RAG)
 
 - **pdfplumber / PyMuPDF (fitz)** — извлечение текста из PDF-мануалов.
